@@ -1,0 +1,28 @@
+
+This directory is intended for PlatformIO Unit Testing and project tests.
+
+Unit Testing is a software testing method by which individual units of
+source code, sets of one or more MCU program modules together with associated
+control data, usage procedures, and operating procedures, are tested to
+determine whether they are fit for use. Unit testing finds problems early
+in the development cycle.
+
+More information about PlatformIO Unit Testing:
+- https://docs.platformio.org/page/plus/unit-testing.html
+
+
+
+mfrc522
+
+Pin     wiring
+Pin 	Wiring to Arduino Uno
+SDA 	Digital 10
+SCK 	Digital 13
+MOSI 	Digital 11
+MISO 	Digital 12
+IRQ 	unconnected
+GND 	GND
+RST 	Digital 9
+3.3V 	3.3V
+
+Caution: You must power this device to 3.3V!
